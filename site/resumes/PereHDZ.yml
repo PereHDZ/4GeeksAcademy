@@ -1,0 +1,48 @@
+---
+template: online-cv
+skin: blue
+basic_info:
+  first_name: Pere
+  last_name: Hernández
+  summary: >
+    I've been working at Palma airport as a ground agent and dispatcher for
+    almost 14 years. This past year I've been looking for a job as a web
+    developer and I am currently doing a course on Data Analysis.
+  email: pere.hdz.salleras@gmail.com
+  phone: 34616673614
+  linkedin: https://www.linkedin.com/in/perehernandezsalleras/
+  github: PereHDZ
+  twitter: null
+  stack-overflow: null
+  languages:
+    - idiom: Catalan
+      level: Native
+    - idiom: Spanish
+      level: Native
+    - idiom: English
+      level: C1
+    - idiom: German
+      level: Basic
+    - idiom: Dutch
+      level: Basic
+    - idiom: French
+      level: Basic
+  interests:
+    - item: Reading
+    - item: Videogames
+    - item: Cooking
+education: null
+experiences: null
+projects:
+  intro: ""
+  assignments: []
+skills:
+  toolset:
+    - name: Python & Django
+      level: 50%
+    - name: JavaScript & jQuery
+      level: 98%
+    - name: React
+      level: 98%
+    - name: HTML5 & CSS
+      level: 95%
